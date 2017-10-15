@@ -27,6 +27,7 @@ https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=Craig+B.
 <div id="gs_bdy">
     <div id="gs_bdy_ccl" role="main">
         <div id="gsc_sa_ccl">
+
             <div class="gs_med" style="margin:lem 0">
                 <p>"找不到与您的搜索项“"<strong>...</strong>"xxx"</p>
 2.2 有详细介绍的
@@ -34,6 +35,7 @@ https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=S.+Venka
 <div id="gs_bdy">
     <div id="gs_bdy_ccl" role="main">
         <div id="gsc_sa_ccl">
+
             <div class="gsc_1usr gs_scl">
             <div class="gsc_1usr gs_scl">#如果有的话，这里以这个div为单位有多个
             <div class="gsc_1usr gs_scl">
@@ -54,8 +56,10 @@ https://scholar.google.com.hk/
 <div id="gs_bdy">
     <div id="gs_bdy_ccl" role="main">
       <div class="gsc_lcl" role="main" id="gsc_prf_w">
+
         <div id="gsc_prf">  # 模块1
             <div id="gsc_prf_i">
+            
                 <div id="gsc_prf_in">xxx</dic>  # name
                 <div class="gsc_prf_il">    # intro
                     这里面或者是string或者是url

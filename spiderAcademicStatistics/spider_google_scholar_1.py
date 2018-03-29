@@ -124,7 +124,8 @@ if __name__ == '__main__':
                'x-chrome-uma-enabled': '1',
                'x-client-data': 'CKi1yQEIhrbJAQijtskBCMG2yQEI+pzKAQipncoB'}
 
-    fnameList = os.listdir('./data/targetName/')
+    # fnameList = os.listdir('./data/targetName/')
+    fnameList = ['biologyscience.txt']
     outputDir = './data/output'
     for fname in fnameList:
         print('---------file name:',fname)
